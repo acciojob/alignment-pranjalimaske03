@@ -2,16 +2,16 @@
 h1{
 	text-align:center;
 }
-td{ 
-	border-width:1px;
-  	border-color:black; 
-	border-spacing:1px;
+.middle,td{
+	 border: 1px solid black;
+	margin:1px;
 	padding:1px;
+	width:550px
+	
 }
-.green {
-  background-color: green;
+#green{
+	background-color:green;
 }
-
-.blue {
-  background-color: blue;
+#blue{
+	background-color:blue;
 }

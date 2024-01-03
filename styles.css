@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+table{ 
+	border-width:1px;
+  	border-color:black; 
+	border-spacing:1px;
+	padding:1px;
+}

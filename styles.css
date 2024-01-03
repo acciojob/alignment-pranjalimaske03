@@ -8,3 +8,10 @@ td{
 	border-spacing:1px;
 	padding:1px;
 }
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
